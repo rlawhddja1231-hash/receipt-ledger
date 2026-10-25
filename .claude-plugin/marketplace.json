@@ -1,0 +1,15 @@
+{
+  "name": "receipt-ledger",
+  "description": "영수증·세금계산서를 엑셀 장부로 만드는 Claude 플러그인 모음",
+  "owner": {
+    "name": "rlawhddja1231-hash"
+  },
+  "plugins": [
+    {
+      "name": "receipt-ledger",
+      "source": "./",
+      "description": "영수증·세금계산서·거래명세서·카드 문자를 읽어 검사하고 엑셀 장부로 만드는 플러그인",
+      "version": "0.1.0"
+    }
+  ]
+}

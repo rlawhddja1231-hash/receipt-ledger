@@ -1,0 +1,15 @@
+{
+  "name": "receipt-ledger",
+  "version": "0.1.0",
+  "description": "영수증·카드영수증·현금영수증·세금계산서·계산서·거래명세서(사진·PDF)와 카드 승인 문자를 엑셀 장부로 만드는 Claude 플러그인 — 사업자번호 검사, 공급가액+부가세=합계 검사, 중복 찾기, 계정과목 짐작, 월별·거래처별·계정과목별·증빙별 합계",
+  "author": {
+    "name": "rlawhddja1231-hash",
+    "url": "https://github.com/rlawhddja1231-hash"
+  },
+  "license": "MIT",
+  "keywords": ["receipt", "영수증", "세금계산서", "tax-invoice", "ledger", "장부", "경비", "부가세", "korean", "excel", "bookkeeping"],
+  "displayName": "영수증 장부",
+  "homepage": "https://github.com/rlawhddja1231-hash/receipt-ledger",
+  "repository": "https://github.com/rlawhddja1231-hash/receipt-ledger",
+  "icon": "./.claude-plugin/icon.png"
+}
